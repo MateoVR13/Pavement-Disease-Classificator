@@ -1,4 +1,4 @@
-# Pavement-Disease-Classificator
+# Pavement Disease Classificator
 
 The **Pavement-Disease-Classificator** is an advanced image classification project designed to identify and categorize various pavement diseases, including potholes, cracks, and surface degradation. Utilizing machine learning algorithms, this project aims to enhance the inspection and maintenance processes of road infrastructure, providing accurate diagnostics to aid engineers and road maintenance authorities.
 
